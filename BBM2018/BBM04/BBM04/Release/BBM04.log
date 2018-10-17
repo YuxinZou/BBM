@@ -1,0 +1,16 @@
+﻿生成启动时间为 2018/5/14 15:15:36。
+     1>项目“D:\Program Files (x86)\Microsoft Visual Studio 10.0\BBM2018\BBM04\BBM04\BBM04.vcxproj”在节点 2 上(build 个目标)。
+     1>PrepareForBuild:
+         正在创建目录“D:\Program Files (x86)\Microsoft Visual Studio 10.0\BBM2018\BBM04\Release\”。
+       InitializeBuildStatus:
+         正在创建“Release\BBM04.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ex04.cpp
+         ex04.cpp
+     1>ex04.cpp(140): error C2374: “min_y”: 重定义；多次初始化
+                 ex04.cpp(139) : 参见“min_y”的声明
+     1>已完成生成项目“D:\Program Files (x86)\Microsoft Visual Studio 10.0\BBM2018\BBM04\BBM04\BBM04.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.86
