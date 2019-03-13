@@ -1,2 +1,2 @@
-# BBM
-this is my code for lecture BBM
+# OpenCV_lab
+this is my code for OpenCV Lab
